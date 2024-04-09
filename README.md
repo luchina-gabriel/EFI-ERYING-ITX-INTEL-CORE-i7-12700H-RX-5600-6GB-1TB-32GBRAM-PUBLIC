@@ -2,6 +2,8 @@
 
 # Basic Information
 
+![About This Mac - Overview](https://github.com/luchina-gabriel/EFI-ERYING-ITX-INTEL-CORE-i7-12700H-RX-5600-6GB-1TB-32GBRAM-PUBLIC/assets/23700365/92b74a28-ae04-41fa-a556-ec6c814551c8)
+
 **Latest working macOS**: macOS Sonoma (14.4.1)
 <br>
 **Current OpenCore**: 0.9.9
